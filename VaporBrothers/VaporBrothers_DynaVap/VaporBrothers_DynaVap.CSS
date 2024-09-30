@@ -57,10 +57,16 @@ div.BLANK_CONT_A{
     width: 100vw;
     height:25vh;
 }
+div.BLANK_CONT_B{
+    width: 100vw;
+    height:10vh;
+}
 
 
 
-
+#main_header h2{
+    padding-left: 2.5vw;  
+}
 
 
 

@@ -59,8 +59,14 @@ div.BLANK_CONT_A{
     height:25vh;
 }
 
+div.BLANK_CONT_B{
+    width: 100vw;
+    height:10vh;
+}
 
-
+#main_header h2{
+    padding-left: 2.5vw;  
+}
 
 
 
@@ -98,6 +104,15 @@ div.Container_Navbar{
     background-image: url(3D_Blue_6.0.png);
     background-color: transparent;
     background-position:top center;
+    background-size: 99vw calc(10px + 6vh);
+    background-repeat: no-repeat;
+    width: 100vw;
+}
+/*
+div.Container_Navbar{
+    background-image: url(3D_Blue_6.0.png);
+    background-color: transparent;
+    background-position:top center;
     background-size: 99vw calc(100%);
     background-repeat: no-repeat;
 
@@ -107,6 +122,7 @@ div.Container_Navbar{
 
     border: solid salmon 0px;
 }
+*/
 #navbar li{
     display: inline;
     padding-left: 2.5vw;
