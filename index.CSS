@@ -101,11 +101,13 @@ header{
     font-size: 2.5vw;
 }
 div.Container_Navbar{
+    /*
     background-image: url(3D_Blue_6.0.png);
     background-color: transparent;
     background-position:top center;
     background-size: 99vw calc(10px + 6vh);
     background-repeat: no-repeat;
+    */
     width: 100vw;
 }
 /*
@@ -135,6 +137,123 @@ div.Container_Navbar{
     font-weight: bold;
     font-size: 2.5vw;
 }
+
+div.Nav_Display{
+    padding-left: 2vw;
+
+    
+    width: 97vw;
+    height: calc(1vh + 3vw);
+
+    /*
+    height: calc( 4vh + 1vw);
+    */
+
+    font-size: 1.5vw;
+/*
+    background-image: url(Block_3D_Dark_Blue_1.1.png);
+    background-color: transparent;
+    background-position:top center;
+    background-size: 99vw calc(10px + 6vh);
+    background-repeat: no-repeat;
+
+
+    background-position:top center;
+    background-image: url(adsf_DB.png);
+    background-repeat: no-repeat;
+    background-size: 97vw calc(20vh + 11vw);
+*/
+
+
+
+    outline: 1px dashed transparent;
+    background-color: transparent;
+
+}
+div.Section_B{
+    width: 100vw;
+    height: calc(4Vh + 16vw + 10px);
+
+
+/*
+    height: calc( calc(calc(1vh + 3vw)  +  calc(5vh + 11vw)) + 0px);
+
+    height: calc(21.25Vh + 5vw);
+    height:20Vh;
+*/
+/*
+    background-position:top center;
+    background-image: url(adsf_DB.png);
+    background-repeat: no-repeat;
+    background-size: 97vw calc(5vh + 11vw);
+*/
+
+
+    background-position:top center;
+    background-image: url(adsf_DB_0.0.png);
+    background-repeat: no-repeat;
+    background-size: 98vw calc(4Vh + 16vw + 0px);
+
+    outline: 1px solid transparent;
+    background-color: transparent;
+}
+
+div.Section_B1{
+    width: 100vw;
+    height: calc(4Vh + 16vw + 10px);
+
+/*
+    height: calc( calc(calc(1vh + 3vw)  +  calc(5vh + 11vw)) + 0px);
+
+    height: calc(21.25Vh + 5vw);
+    height:20Vh;
+*/
+/*
+    background-position:top center;
+    background-image: url(adsf_DB.png);
+    background-repeat: no-repeat;
+    background-size: 97vw calc(5vh + 11vw);
+*/
+    background-position:top center;
+    background-image: url(asdf_RO_0.0.png);
+    background-repeat: no-repeat;
+    background-size: 98vw calc(4Vh + 16vw + 0px);
+
+    outline: 1px solid transparent;
+    background-color: transparent;
+}
+
+div.Des_Display{
+    padding-top: .05vh;
+    padding-left: 2vw;
+    width: 97vw;
+    height: calc(4Vh + 16vw + 10px); /*calc( 15vh + 5vw);*/
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5vw;
+    color: black;
+
+/*
+    background-position:top center;
+    background-image: url(Block_3D_Green_0.1.png);
+    background-repeat: no-repeat;
+    background-size: 97vw calc(5vh + 11vw);
+
+    background-position:top center;
+    background-image: url(asdf_LG.png);
+    background-repeat: no-repeat;
+    background-size: 97vw calc(17vh + 11vw);
+*/
+
+
+
+    outline: 1px solid transparent;
+    background-color: transparent;   
+}
+
+
 div.Container_Showcase{
     background-position: center;
     background-size: auto;  
@@ -169,11 +288,18 @@ div.BKGRND_IMAGE_CONT_H{
     width: 100vw;
     height: 20vh;
     background-position:top center;
-    background-image: url(3D_ELEV8_Rose_0.0.png);
+    background-image: url(VapeZees_3D_Impact_Blue_0.0.png);
     background-repeat: no-repeat;
     background-size: 80vw 20vh;
 }
-
+div.BKGRND_IMAGE_CONT_H1{
+    width: 100vw;
+    height: 20vh;
+    background-position:top center;
+    background-image: url(VapeZees_3D_Impact_Rose_0.0.png);
+    background-repeat: no-repeat;
+    background-size: 80vw 20vh;
+}
 
 div.TXT_CONT_A{
     padding-top: 0vw;
